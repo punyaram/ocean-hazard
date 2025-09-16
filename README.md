@@ -115,11 +115,11 @@ MIT License
 ## 👥 Contributors
 
 - Punya R.  
-- Srivatsan R
-- Saksham Singh
-- Shivani Singh
+- R Srivatsan 
+- Saksham Pratap Singh
+- Shivani Kumari
 - Akshit
-- Chris Thomas
+- Cris Thomas
 
 ---
 
