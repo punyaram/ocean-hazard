@@ -114,7 +114,7 @@ MIT License
 
 ## 👥 Contributors
 
-- Punya R.  
+- Punya R  
 - R Srivatsan 
 - Saksham Pratap Singh
 - Shivani Kumari
